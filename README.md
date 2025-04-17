@@ -34,8 +34,9 @@ Output Results:
 
 VIDEO : 
 
-REPORT PAPER: REPORT_DOS_Main.pdf
+REPORT PAPER: https://drive.google.com/file/d/1RqJj1hGUEYE0CReYC3ZjbTsLGN1X12oX/view?usp=drive_link
 
-PLAGARISM CHECK: WhatsApp Image 2025-04-17 at 21 28 21_df4d496d
+PLAGARISM CHECK: ![WhatsApp Image 2025-04-17 at 21 28 25_305bca8f](https://github.com/user-attachments/assets/93dbc4f0-7b06-4202-a74f-a5e9353ca52d)
 
-PPT PRESENTATION: 
+
+PPT PRESENTATION: https://drive.google.com/file/d/1RqJj1hGUEYE0CReYC3ZjbTsLGN1X12oX/view?usp=sharing
