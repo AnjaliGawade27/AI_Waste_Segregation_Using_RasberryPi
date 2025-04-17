@@ -1,4 +1,5 @@
 AI_Waste_Segregation_Using_RasberryPi
+
 ♻️ AI-Based Smart Waste Classification System (Simulation)
 This project is a simulated AI-powered Smart Waste Segregator system built using Python, OpenCV, and TensorFlow. It classifies images of waste as Paper or Plastic and identifies hazardous waste (Plastic) requiring instant chemical clearance. The system displays predictions visually and simulates motor actions for sorting waste types.
 
