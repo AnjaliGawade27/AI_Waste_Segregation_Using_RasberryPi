@@ -40,4 +40,4 @@ REPORT PAPER: https://drive.google.com/file/d/1RqJj1hGUEYE0CReYC3ZjbTsLGN1X12oX/
 PLAGARISM CHECK: ![WhatsApp Image 2025-04-17 at 21 28 25_305bca8f](https://github.com/user-attachments/assets/93dbc4f0-7b06-4202-a74f-a5e9353ca52d)
 
 
-PPT PRESENTATION: https://drive.google.com/file/d/1RqJj1hGUEYE0CReYC3ZjbTsLGN1X12oX/view?usp=sharing
+PPT PRESENTATION: https://drive.google.com/file/d/1zuO_ftToscmAsoq-5B2IJjXGgfmvNcSU/view?usp=drive_link
